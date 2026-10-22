@@ -1,67 +1,72 @@
 # SkillSwap — Skill Exchange Analytics
 
-# Project Overview
+## Project Overview
 
-SkillSwap is an interactive Power BI project designed to analyze a skill-sharing community where users can teach skills, learn new skills, and participate in skill exchange sessions. The project explores community activity, skill distribution, learning engagement, and opportunities to improve participation.
+SkillSwap is an interactive Power BI project focused on analyzing a skill-sharing community where users can teach skills, learn new skills, and participate in skill exchange sessions. The project explores community activity, skill demand, learning engagement, and opportunities to improve participation.
 
-# Objectives
+## Project Objectives
 
-Analyze the overall SkillSwap community.
+- Analyze overall community activity and participation.
+- Understand skill demand and distribution.
+- Explore skill exchange networks and user engagement.
+- Identify learning and engagement trends.
+- Provide actionable, data-driven recommendations.
 
-Understand skill distribution and learning preferences.
+## Tools & Technologies
 
-Explore skill exchange networks and user engagement.
+- **Microsoft Power BI** — Interactive dashboard development
+- **Power Query** — Data preparation and transformation
+- **DAX** — Measures and calculations
+- **Data Modeling** — Table relationships and analytical structure
+- **Data Visualization** — Charts, KPIs, and interactive reporting
 
-Identify learning and engagement trends.
+## Dashboard Preview
 
-Develop data-driven insights and recommendations.
+### 1. Community Overview
 
-# Tools & Technologies
+![Community Overview](Community%20Overview.png)
 
-Microsoft Power BI
+Provides an overview of the SkillSwap community and its activity.
 
-Power Query for data preparation
+### 2. Demand Analysis
 
-DAX for measures and calculations
+![Demand Analysis](Demand%20Analysis.png)
 
-Data Modeling and Interactive Visualizations
+Explores skill demand and helps identify areas of interest within the community.
 
-# Dashboard Pages
+### 3. Skill Exchange Network
 
-Community Overview — Understand the community's overall activity and participation.
+![Skill Exchange Network](Skill%20Exchange%20Network.png)
 
-Skill Landscape — Explore the distribution of skills across the platform.
+Examines skill exchange activity and engagement across the platform.
 
-Skill Exchange Network & User Engagement — Analyze skill exchange sessions and engagement.
+### 4. Learning & Engagement
 
-Learning and Engagement — Examine participation and learning patterns.
+![Learning and Engagement](Learning%20%26%20Engagement.png)
 
-Insights and Recommendations — Summarize key findings and propose actionable recommendations.
+Highlights learning participation and engagement patterns.
 
-# Key Learnings
+### 5. Insights & Recommendations
 
-Data preparation and transformation.
+![Insights and Recommendations](Insights%20%26%20Recommendations.png)
 
-Data modeling and relationship management.
+Summarizes key findings and recommendations to support better community engagement.
 
-Creating interactive dashboards and visualizations.
+## Key Learnings
 
-Identifying data-quality issues and handling missing or unmatched skill values.
+- Preparing and transforming data using Power Query.
+- Building data models and managing table relationships.
+- Creating DAX measures and interactive Power BI visuals.
+- Identifying and handling missing or unmatched skill values.
+- Translating analytical findings into actionable recommendations.
 
-Translating analytical findings into meaningful recommendations.
+## Project Files
 
-# Project Files
+- **[Power BI Report](Skillswap%20Project.pbix)** — Download the interactive `.pbix` report and open it in Power BI Desktop.
+- **Dashboard Screenshots** — Visual previews of the report pages are displayed above.
 
-Power BI report (.pbix) — Interactive dashboard.
+## Conclusion
 
-Dashboard screenshots — Visual previews of the report.
+This project demonstrates how Power BI can transform skill-sharing data into meaningful insights about community participation, skill demand, and learning engagement.
 
-README — Project documentation.
-
-# Conclusion
-
-SkillSwap demonstrates how Power BI can transform skill-sharing data into meaningful insights about community participation, learning preferences, and engagement opportunities.
-
-Project completed as part of my Data Analytics internship at NetTech India.
-
-
+**Project completed as part of my Data Analytics internship at NetTech India.**
